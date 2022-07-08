@@ -1,0 +1,21 @@
+.deletePost {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #FFD7D7;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+  width: 350px;
+  height: 100px;
+  margin: auto;
+  position: relative;
+  z-index: 10px;
+  background-color:white;
+  box-shadow: 2px 2px 2px #FFD7D7; 
+  padding: 10px; 
+}
+.deletePost_Button{
+   width: 100%;   
+   display: flex;
+   justify-content: space-around;
+}    
